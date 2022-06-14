@@ -28,7 +28,7 @@ function shoot(){
 }
 
 let quack = setInterval(()=>{
-    new Audio('sounds/quack.mp3').play();
+    //new Audio('sounds/quack.mp3').play();
 
 },4000);
 
